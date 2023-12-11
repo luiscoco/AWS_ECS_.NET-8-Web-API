@@ -1,2 +1,1 @@
-# AWS_ECS_.NET-8-Web-API
-AWS ECS .NET 8 Web API
+# AWS ECS .NET 8 Web API
