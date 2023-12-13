@@ -64,6 +64,8 @@ We right click on the project and select the option "**Open in Terminal**"
 aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/x6y4g2f4
 ```
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/a22835ad-470c-412b-bc9d-f68256460429)
+
 ```
 docker build -t examplepublicrepository .
 ```
@@ -75,6 +77,14 @@ docker tag examplepublicrepository:latest public.ecr.aws/x6y4g2f4/examplepublicr
 ```
 docker push public.ecr.aws/x6y4g2f4/examplepublicrepository:latest
 ```
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/e5c0c9b4-424f-40d9-83bf-9eafa61df0a9)
+
+We verify in AWS ECR repo the uploaded docker image
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/5bb82c5d-8074-476b-9fd9-6f8a61290c05)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/f4372f0b-cbc8-4b6c-a4b0-bed8972e35ee)
 
 
 ## 3. Create a new Cluster in AWS ECS
