@@ -42,6 +42,8 @@ We select the operating systems and system architectures that are compatible wit
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/91d44745-9f2e-47bd-b18f-820507bfc989)
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/bc52e8c5-19ac-4718-82b3-da097f14aa57)
+
 
 
 ## 3. Create a new Cluster in AWS ECS
