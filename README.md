@@ -44,7 +44,17 @@ We select the operating systems and system architectures that are compatible wit
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/bc52e8c5-19ac-4718-82b3-da097f14aa57)
 
+We can see the new repo
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3fd1a550-2198-4452-9c3c-3ee82cb1bb4b)
+
+We have to upload the Web API docker image to the AWS ECR repo. We press in the "**View push commands**" button:
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/e23eafa3-d8f8-4729-8e58-a3d852bbf21b)
+
+These are the commands we have to execute in the Visual Studio Terminal Window
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3cb075c8-1951-4ea2-b817-cf96a14af358)
 
 ## 3. Create a new Cluster in AWS ECS
 
