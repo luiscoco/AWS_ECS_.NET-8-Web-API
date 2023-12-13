@@ -84,7 +84,7 @@ We verify in AWS ECR repo the uploaded docker image
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/5bb82c5d-8074-476b-9fd9-6f8a61290c05)
 
-![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/f4372f0b-cbc8-4b6c-a4b0-bed8972e35ee)
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/108b0c1b-84f6-47b1-9087-b82fdfe6b45b)
 
 
 ## 3. Create a new Cluster in AWS ECS
