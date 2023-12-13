@@ -157,7 +157,11 @@ We input in the new Cluster and we create a new service
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/18ea4374-a2a2-417a-a2fa-cb19f525a30b)
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/715e0f23-4eee-422e-a58b-77b613489cb2)
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/7a7b2170-147c-4112-8547-c945048bde9b)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/965c7daf-f5b3-4eee-aa2d-49435031daab)
 
 ## 7. Access to the Web API application enpoint
 
