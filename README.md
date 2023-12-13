@@ -89,7 +89,13 @@ We verify in AWS ECR repo the uploaded docker image
 
 ## 3. Create a new Cluster in AWS ECS
 
+We navigate to the AWS ECS service 
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/1787a21c-6ab8-4bcf-a6a1-22af5022c642)
+
+We press the **Create cluster** button
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/afbfcd89-7e01-4d29-8ad4-9283178c5f26)
 
 
 ## 4. Create a new Task definition in AWS ECS
