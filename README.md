@@ -151,8 +151,11 @@ Press the **Create** button
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/332b3bc8-acd5-47ce-9057-4958d545fd22)
 
-
 ## 6. Create a new Service in AWS ECS
+
+We input in the new Cluster and we create a new service
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/18ea4374-a2a2-417a-a2fa-cb19f525a30b)
 
 
 
