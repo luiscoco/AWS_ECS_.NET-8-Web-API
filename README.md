@@ -102,16 +102,35 @@ We set the cluster name and we press the **Create** button. Pay attention we sel
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/132acef8-657f-4cb5-8033-60f14efae0ff)
 
-## 4. Create a new Task definition in AWS ECS
+## 4. Create a new role in the IAM service
+
+We navigate to the IAM service 
 
 
 
 
-## 5. Create a new Service in AWS ECS
+## 5. Create a new Task definition in AWS ECS
+
+We create a new task definition
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/f5cf8e1e-8fc1-44ab-96a1-0d3fb642f160)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/4949eff0-67f3-4461-9bf2-f787f3b57556)
+
+We set the CPU (2 Uds) and the Memory (8 GB). The "Task role" we set to "None" and in "Task execution role" we set to "ecsTaskExecutionRole"
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/23494bc4-8e60-494b-89af-d060c69bdb53)
 
 
 
-## 6. Access to the Web API application enpoint
+
+
+
+## 6. Create a new Service in AWS ECS
+
+
+
+## 7. Access to the Web API application enpoint
 
 
 
