@@ -56,6 +56,10 @@ These are the commands we have to execute in the Visual Studio Terminal Window
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3cb075c8-1951-4ea2-b817-cf96a14af358)
 
+We right click on the project and select the option "**Open in Terminal**"
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/5015bab8-8183-482e-8cc1-436aef7091c8)
+
 ```
 aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/x6y4g2f4
 ```
