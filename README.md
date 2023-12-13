@@ -135,8 +135,9 @@ We create a new task definition
 
 We set the CPU (2 Uds) and the Memory (8 GB). The "Task role" we set to "None" and in "Task execution role" we set to "ecsTaskExecutionRole"
 
-![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/23494bc4-8e60-494b-89af-d060c69bdb53)
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/d843f4ed-9502-4818-b00d-5766da231c7d)
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/e5695f9b-95c6-48cb-8bfc-590107ec926b)
 
 
 
