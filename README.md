@@ -106,7 +106,23 @@ We set the cluster name and we press the **Create** button. Pay attention we sel
 
 We navigate to the IAM service 
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/de9f0ecd-ad68-40a9-9358-9ff81af435b0)
 
+We create a new role
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3b68cd86-d0d8-4bc0-b499-e7d4b3cebc87)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/ee79a1b3-31fc-4711-9f26-f475e5fac3bb)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/1a4aa0be-90e6-47d3-85e6-7080a5eb93c1)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/135e8d0d-2ada-42f8-82b1-4a378253cad3)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/9785262c-9297-4702-9218-49eab3408500)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/c0cbd717-1b3b-4ab6-838b-03d0b15b7b03)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/be053297-adb5-4d3e-9594-630732a57425)
 
 
 ## 5. Create a new Task definition in AWS ECS
