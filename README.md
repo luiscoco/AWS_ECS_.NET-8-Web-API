@@ -56,6 +56,23 @@ These are the commands we have to execute in the Visual Studio Terminal Window
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3cb075c8-1951-4ea2-b817-cf96a14af358)
 
+```
+aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/x6y4g2f4
+```
+
+```
+docker build -t examplepublicrepository .
+```
+
+```
+docker tag examplepublicrepository:latest public.ecr.aws/x6y4g2f4/examplepublicrepository:latest
+```
+
+```
+docker push public.ecr.aws/x6y4g2f4/examplepublicrepository:latest
+```
+
+
 ## 3. Create a new Cluster in AWS ECS
 
 
