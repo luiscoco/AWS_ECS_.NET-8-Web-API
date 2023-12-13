@@ -86,7 +86,6 @@ We verify in AWS ECR repo the uploaded docker image
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/108b0c1b-84f6-47b1-9087-b82fdfe6b45b)
 
-
 ## 3. Create a new Cluster in AWS ECS
 
 We navigate to the AWS ECS service 
@@ -97,6 +96,11 @@ We press the **Create cluster** button
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/afbfcd89-7e01-4d29-8ad4-9283178c5f26)
 
+We set the cluster name and we press the **Create** button. Pay attention we selected the option **AWS Fargate (serverless)**
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/a991b7fd-2273-467a-8213-bbaf7eee748d)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/132acef8-657f-4cb5-8033-60f14efae0ff)
 
 ## 4. Create a new Task definition in AWS ECS
 
