@@ -139,6 +139,11 @@ We set the CPU (2 Uds) and the Memory (8 GB). The "Task role" we set to "None" a
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/e5695f9b-95c6-48cb-8bfc-590107ec926b)
 
+Copy the environmental variables values in the launchSettings.json file
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/49bde447-c8ac-47b2-909b-d0ffc108fb06)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/30885717-22f8-4e4f-a324-603ff3bc9361)
 
 
 
