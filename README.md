@@ -163,8 +163,17 @@ We input in the new Cluster and we create a new service
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/965c7daf-f5b3-4eee-aa2d-49435031daab)
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/d3a8d586-601c-4fb8-bed8-133ea5d88589)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/87693a1f-0364-42da-a83f-1cfd79638f76)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/3e54fa08-bf54-4edf-9484-6748d495a830)
+
 ## 7. Access to the Web API application enpoint
 
+http://15.188.246.57/weatherforecast
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/896febdb-acf1-4459-9ae6-2e4123164957)
 
 
 
