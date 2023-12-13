@@ -145,7 +145,11 @@ Copy the environmental variables values in the launchSettings.json file
 
 ![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/30885717-22f8-4e4f-a324-603ff3bc9361)
 
+Press the **Create** button
 
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/d80b0aa0-af01-4187-89fc-6f19ce7f42e0)
+
+![image](https://github.com/luiscoco/AWS_ECS_deploy_.NET_7_Web_API/assets/32194879/332b3bc8-acd5-47ce-9057-4958d545fd22)
 
 
 ## 6. Create a new Service in AWS ECS
